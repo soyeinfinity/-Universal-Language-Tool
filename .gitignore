@@ -1,0 +1,4 @@
+translator_config.json
+venv/
+__pycache__/
+dist/
